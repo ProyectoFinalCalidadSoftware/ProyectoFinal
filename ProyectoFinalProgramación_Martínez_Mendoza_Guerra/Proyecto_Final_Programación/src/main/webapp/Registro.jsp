@@ -2,7 +2,7 @@
     pageEncoding="ISO-8859-1"%>
     <%@page import="java.sql.*"  %>
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
     <meta charset="UTF-8">
 <link rel="stylesheet" type="text/css" href="jsp.css">
@@ -14,9 +14,9 @@
   
  <div class="contenedor">
   <div class="registrosjsp">
-    <h1>¡Registro exitoso!</h1>
+    <h1>Â¡Registro exitoso!</h1>
     <p>Los datos fueron insertados correctamente.</p>
-    <a href="Pagina-1.html">Inicia tu Sesión</a>
+    <a href="Pagina-1.html">Inicia tu SesiÃ³n</a>
   </div>
 </div>
   </form>
