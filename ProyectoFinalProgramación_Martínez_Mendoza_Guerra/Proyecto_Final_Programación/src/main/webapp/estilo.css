@@ -26,7 +26,7 @@ body{
     font-family:'Concert One', cursive; 
     background: rgb(63,184,175);
     background: linear-gradient(90deg, rgba(63,184,175,1) 0%, rgba(78,142,214,1) 22%, rgba(78,142,214,1) 76%, rgba(63,184,175,1) 100%);
-   padding: 44px;   /*espaciado entre el contenedor de inicio de sesión y la pagina */
+   padding: 44px;   /*espaciado entre el contenedor de inicio de sesiÃ³n y la pagina */
 }
 h1{
   font-family: 'Libre Franklin', sans-serif;
@@ -40,7 +40,7 @@ p{
 .contenederportada{
 height:50%; /* Altura*/
 display: grid; /* organizar en  columnas*/
-grid-template-columns: 50% 50%; /* Tamaño que tomara la columna*/
+grid-template-columns: 50% 50%; /* TamaÃ±o que tomara la columna*/
 border-radius: 10px;
 overflow: hidden;/* Oculta el contenido que se desborde */
 
@@ -49,7 +49,7 @@ overflow: hidden;/* Oculta el contenido que se desborde */
 
 .login-izquierda{
   display: flex; /* ajusta el contenido segun el espacio disponible*/
-  flex-direction: column ;  /*dirección en columna*/ 
+  flex-direction: column ;  /*direcciÃ³n en columna*/ 
    padding-left: 150px;
    background-color: white;
 }
@@ -108,11 +108,10 @@ a{
   border: 1px solid #cccccc;
   border-radius: 4px;
   height: 40px;
-  padding: 0 2rem;  /* para Y, sera 2 veces el tamaño de la fuente*/
+  padding: 0 2rem;  /* para Y, sera 2 veces el tamaÃ±o de la fuente*/
   width: 125%;
   outline: none; /* elimina contorno al dar clic en el input*/
-  width: 125%;
-  margin-top: 5px;
+
  
 
 }
@@ -126,7 +125,6 @@ a{
   margin-top: 25px;
   padding: 10px 20px;
   color: #ffffff; 
-  border: none;
   font-size: 18px;
   border-radius: 4px;
   cursor: pointer;
